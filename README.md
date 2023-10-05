@@ -1,7 +1,9 @@
 # Rellipy
-Python code to extract Rayleigh-wave ellipticity and phase-shift from earthquake recordings. Developed and first applied for:
+Python package to extract Rayleigh-wave ellipticity and phase-shift from earthquake recordings. 
 
-_Carrasco et al. (2023), "Constraints for the Martian crustal structure from Rayleigh waves ellipticity of large seismic events", submitted to GRL._
+Rellipy was developed and first applied for:
+
+Carrasco et al. (2023), "Constraints for the Martian crustal structure from Rayleigh waves ellipticity of large seismic events", Geophysical Research Letters, 50, e2023GL104816. [doi:10.1029/2023GL104816](https://doi.org/10.1029/2023GL104816)
 
 This repository contains the following scripts:
 
@@ -20,4 +22,4 @@ Examples of the output using station BQ.DREG on Earth are provided under directo
 The code has been tested for different stations on Earth and works satisfactorily, but further improvements can definitively (and will) be made.
 In case of bugs, comments or issues, don't hesitate to contact me.
 
-[Sebastian Carrasco](mailto:acarrasc@uni-koeln.de?subject=[GitHub]%20Source%20Han%20Sans)
+Contact: [Sebastian Carrasco](mailto:acarrasc@uni-koeln.de?subject=[GitHub]%20Source%20Han%20Sans)
